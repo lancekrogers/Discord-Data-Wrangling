@@ -1,0 +1,4 @@
+.env
+cleaned_payout_data/*
+outfiles/*
+.ipynb_checkpoints/*
